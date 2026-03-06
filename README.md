@@ -5,7 +5,7 @@
 Parille is a two player strategy game based on Orthello. Each player takes turns to place tiles of their own colour, taking over the player's tiles. The player with the most tiles to their name at the end of the game wins!
 Parille features Player vs AI, AI vs AI, and Player vs Player (on the same device or two devices nearby wirelessly)
 
-Download it [here.](https://apps.apple.com/us/app/parille/id1666184682)
+Download it [here](https://apps.apple.com/us/app/parille/id1666184682) for iOS, iPadOS and macOS.
 
 ### Technical details
 - Made purely in Swift and SwiftUI
